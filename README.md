@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @THEINDIANSLOTH
-- 👀 I’m interested in Discor Bot Development
-- 🌱 I’m currently learning Something That i Dont know
-- 💞️ I’m looking to collaborate on in Bot Development and ethical hacking tools testing
+- 👀 I’m interested in IOT and Servers
+- 🌱 I’m currently learning Web Development and Internet Of Things
+- 💞️ I’m looking to collaborate on in IOT Development , Drone based Telemetry Projects and ethical hacking tools testing
 - 📫 Reach me on my email rachitgsharma2003@gmail.com
 
 <!---
